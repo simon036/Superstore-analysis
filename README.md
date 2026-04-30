@@ -86,7 +86,7 @@ These allow users to dynamically explore the data.
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot]([your-image-file.png](https://github.com/simon036/Superstore-analysis/blob/main/Images/Dashboard.png))
+![Dashboard Screenshot](https://github.com/simon036/Superstore-analysis/blob/main/Images/Dashboard.png)
 
 ---
 
